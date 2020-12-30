@@ -18,5 +18,5 @@ end
   supports os, '>= 5.0'
 end
 
-depends 'apt', '~> 2.4'
-depends 'yum-epel', '~> 0.3'
+depends 'apt'
+depends 'yum-epel'
